@@ -1,6 +1,6 @@
 # KRaft Kafka Native cluster
 
-Docker example of a kafka cluster using kraft. Based in a previous version of @mcascallares.
+Docker example of a kafka cluster using kraft. Based in a previous version of [@mcascallares](https://github.com/mcascallares/).
 
 ## URL
 
